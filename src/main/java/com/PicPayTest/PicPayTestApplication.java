@@ -8,7 +8,7 @@ public class PicPayTestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PicPayTestApplication.class, args);
-		System.out.println("Server is running");
+		System.out.println("Server is running on port 8080");
 	}
 
 }
